@@ -184,44 +184,6 @@ pheatmap(
   gaps_col = genotype_breaks # Adds lines between genotype groups
 )
 
-
-
-
-# Define color palette
-col <- colorRampPalette(rev(brewer.pal(n = 7, name ="RdBu")),bias=1.3)(30)
-
-# Create heatmap for expcT0 (without legend)
-heatmap_T0 <- pheatmap(
-  expcT0, 
-  color = col,
-  cluster_cols = FALSE, 
-  clustering_distance_rows = "binary",
-  show_colnames = FALSE,
-  gaps_col = genotype_breaks_T0,
-  annotation_col = annotation_col_T0,
-  annotation_colors = annotation_colors,
-  na_col = "black", # Make NAs black
-  legend = FALSE,   # Disable legend
-  main = "Heatmap T0"
-)
-
-# Create heatmap for expcT12 (without legend)
-pheatmap(
-  expcT12, 
-  color = col,
-  cluster_cols = FALSE, 
-  clustering_distance_rows = "binary",
-  show_colnames = FALSE,
-  gaps_col = genotype_breaks_T12,
-  annotation_col = annotation_col_T12,
-  annotation_colors = annotation_colors,
-  na_col = "black", # Make NAs black
-  legend = FALSE,   # Disable legend
-  main = "Heatmap T12"
-)
-
-
-
 gene=as.data.frame(t(sorted))
 texp=data.frame(t(sorted))
 sexp=stack(texp)
