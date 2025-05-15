@@ -40,10 +40,8 @@ gomwuStats(input, goDatabase, goAnnotations, goDivision,
 #for fishers, 44 GO terms at 10% FDR for purple 
 #fishers, 95 GO terms at 10% FDR for tan
 #FISHERS, 11 GO terms at 10% FDR pink! woah 
-#fishers, 22 GO terms at 10% FDR
+#fishers, 22 GO terms at 10% FDR greenyellow 
 
-
-#T12 Purple 27 GO terms 
 
 #28 GO terms at 10% FDR for purple 
 #74 GO terms at 10% FDR for tan
@@ -68,6 +66,9 @@ results=gomwuPlot(input,goAnnotations,goDivision,
  # text representation of results, with actual adjusted p-values
  results[[1]]
 
+ library(dplyr)
+ 
+results[[1]] %>% arrange(desc(pval))
 
 # ------- extracting representative GOs
 
