@@ -1,0 +1,129 @@
+Sample_ID,Genotype,Type ,T3_Dead,T12_Dead,Sites,Perm_2,Perm_3,Timepoint,Timepoints,Site
+G13r1,13,Coral,1,666,Looe Key,111,111,T0,0,Nursery
+G13r10,13,Coral,0,1,Big Pine,111,111,T0,0,Nursery
+G13r21,13,Coral,0,0,Dave's Ledge,111,111,T0,0,Nursery
+G13r22,13,Coral,0,0,Maryland Shoal,111,111,T0,0,Nursery
+G13r23,13,Coral,0,0,Maryland Shoal,111,111,T0,0,Nursery
+G13r24,13,Coral,0,1,Maryland Shoal,111,111,T0,0,Nursery
+G13r25,13,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G13r26,13,Coral,1,1,Marker 32,111,111,T0,0,Nursery
+G13r28,13,Coral,1,666,EDR,111,111,T0,0,Nursery
+G13r29,13,Coral,1,1,EDR,111,111,T0,0,Nursery
+G13r3,13,Coral,0,0,Looe Key,111,111,T0,0,Nursery
+G13r30,13,Coral,1,1,EDR,111,111,T0,0,Nursery
+G13r5,13,Coral,0,0,Bahia Honda,111,111,T0,0,Nursery
+G1r1,1,Coral,0,0,Looe Key,111,111,T0,0,Nursery
+G1r14,1,Coral,0,0,W.Sambo,111,111,T0,0,Nursery
+G1r29,1,Coral,0,666,EDR,111,111,T0,0,Nursery
+G1r4,1,Coral,0,0,Bahia Honda,111,111,T0,0,Nursery
+G1r5,1,Coral,2,2,UnkNwn,111,111,T0,0,Nursery
+G1r8,1,Coral,0,0,Big Pine,111,111,T0,0,Nursery
+G31r10,31,Coral,0,0,E.Sambo,111,111,T0,0,Nursery
+G31r12,31,Coral,1,1,E.Sambo,111,111,T0,0,Nursery
+G31r13,31,Coral,0,0,W.Sambo,111,111,T0,0,Nursery
+G31r14,31,Coral,0,0,W.Sambo,111,111,T0,0,Nursery
+G31r20,31,Coral,2,2,UnkNwn,111,111,T0,0,Nursery
+G31r25,31,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G31r26,31,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G31r28,31,Coral,2,2,UnkNwn,111,111,T0,0,Nursery
+G31r29,31,Coral,0,0,EDR,111,111,T0,0,Nursery
+G36r10,36,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G36r11,36,Coral,0,0,E.Sambo,3736,111,T0,0,Nursery
+G36r12,36,Coral,0,0,E.Sambo,3736,111,T0,0,Nursery
+G36r14,36,Coral,0,0,W.Sambo,3736,111,T0,0,Nursery
+G36r16,36,Coral,0,0,W.Sambo,3736,111,T0,0,Nursery
+G36r17,36,Coral,0,0,Dave's Ledge,3736,111,T0,0,Nursery
+G36r18,36,Coral,2,2,UnkNwn,3736,111,T0,0,Nursery
+G36r19,36,Coral,0,666,Dave's Ledge,3736,111,T0,0,Nursery
+G36r2,36,Coral,0,666,Looe Key,3736,111,T0,0,Nursery
+G36r20,36,Coral,0,0,Dave's Ledge,3736,111,T0,0,Nursery
+G36r3,36,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G36r4,36,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G36r6,36,Coral,0,0,Bahia Honda,3736,111,T0,0,Nursery
+G36r7,36,Coral,0,0,Bahia Honda,3736,111,T0,0,Nursery
+G36r8,36,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G36r9,36,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G3r1,3,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G3r10,3,Coral,0,0,E.Sambo,3736,111,T0,0,Nursery
+G3r11,3,Coral,0,0,E.Sambo,3736,111,T0,0,Nursery
+G3r14,3,Coral,0,0,E.Sambo,3736,111,T0,0,Nursery
+G3r15,3,Coral,0,0,W.Sambo,3736,111,T0,0,Nursery
+G3r16,3,Coral,0,0,W.Sambo,3736,111,T0,0,Nursery
+G3r17,3,Coral,0,0,W.Sambo,3736,111,T0,0,Nursery
+G3r19,3,Coral,0,0,Dave's Ledge,3736,111,T0,0,Nursery
+G3r2,3,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G3r20,3,Coral,0,0,Dave's Ledge,3736,111,T0,0,Nursery
+G3r21,3,Coral,0,1,Maryland Shoal,3736,111,T0,0,Nursery
+G3r22,3,Coral,0,0,Maryland Shoal,3736,111,T0,0,Nursery
+G3r23,3,Coral,0,0,Maryland Shoal,3736,111,T0,0,Nursery
+G3r24,3,Coral,0,0,Marker 32,3736,111,T0,0,Nursery
+G3r25,3,Coral,0,0,Marker 32,3736,111,T0,0,Nursery
+G3r26,3,Coral,0,0,Marker 32,3736,111,T0,0,Nursery
+G3r27,3,Coral,0,0,EDR,3736,111,T0,0,Nursery
+G3r28,3,Coral,1,666,EDR,3736,111,T0,0,Nursery
+G3r29,3,Coral,0,0,EDR,3736,111,T0,0,Nursery
+G3r3,3,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G3r30,3,Coral,2,2,UnkNwn,3736,111,T0,0,Nursery
+G3r4,3,Coral,1,1,Bahia Honda,3736,111,T0,0,Nursery
+G3r5,3,Coral,0,0,Bahia Honda,3736,111,T0,0,Nursery
+G3r6,3,Coral,0,1,Bahia Honda,3736,111,T0,0,Nursery
+G3r7,3,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G3r8,3,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G3r9,3,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G41r1,41,Coral,2,2,UnkNwn,111,111,T0,0,Nursery
+G41r2,41,Coral,1,666,Looe Key,111,111,T0,0,Nursery
+G41r3,41,Coral,0,0,Looe Key,111,111,T0,0,Nursery
+G41r4,41,Coral,1,1,Bahia Honda,111,111,T0,0,Nursery
+G41r6,41,Coral,1,1,Bahia Honda,111,111,T0,0,Nursery
+G41r7,41,Coral,0,1,Big Pine,111,111,T0,0,Nursery
+G41r8,41,Coral,0,0,Big Pine,111,111,T0,0,Nursery
+G44r11,44,Coral,0,0,Big Pine,111,111,T0,0,Nursery
+G44r12,44,Coral,0,0,Big Pine,111,111,T0,0,Nursery
+G44r13,44,Coral,0,0,E.Sambo,111,111,T0,0,Nursery
+G44r15,44,Coral,0,0,E.Sambo,111,111,T0,0,Nursery
+G44r17,44,Coral,2,2,W.Sambo,111,111,T0,0,Nursery
+G44r18,44,Coral,0,0,W.Sambo,111,111,T0,0,Nursery
+G44r2,44,Coral,1,1,Looe Key,111,111,T0,0,Nursery
+G44r25,44,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G44r27,44,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G44r28,44,Coral,0,0,EDR,111,111,T0,0,Nursery
+G44r29,44,Coral,0,0,EDR,111,111,T0,0,Nursery
+G44r3,44,Coral,0,0,Looe Key,111,111,T0,0,Nursery
+G44r4,44,Coral,0,0,Looe Key,111,111,T0,0,Nursery
+G44r5,44,Coral,0,0,Bahia Honda,111,111,T0,0,Nursery
+G44r7,44,Coral,0,0,Bahia Honda,111,111,T0,0,Nursery
+G44r8,44,Coral,2,2,UnkNwn,111,111,T0,0,Nursery
+G50r16,50,Coral,2,2,UnkNwn,111,111,T0,0,Nursery
+G50r18,50,Coral,0,1,Maryland Shoal,111,111,T0,0,Nursery
+G50r21,50,Coral,1,666,Dave's Ledge,111,111,T0,0,Nursery
+G50r22,50,Coral,0,0,Maryland Shoal,111,111,T0,0,Nursery
+G50r24,50,Coral,0,0,EDR,111,111,T0,0,Nursery
+G50r27,50,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G50r4,50,Coral,1,1,Bahia Honda,111,111,T0,0,Nursery
+G50r6,50,Coral,0,0,Bahia Honda,111,111,T0,0,Nursery
+G62r1,62,Coral,1,666,Looe Key,111,111,T0,0,Nursery
+G62r19,62,Coral,0,1,Dave's Ledge,111,111,T0,0,Nursery
+G62r2,62,Coral,1,1,Looe Key,111,111,T0,0,Nursery
+G62r20,62,Coral,0,1,Maryland Shoal,111,111,T0,0,Nursery
+G62r21,62,Coral,0,0,Maryland Shoal,111,111,T0,0,Nursery
+G62r23,62,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G62r26,62,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G62r27,62,Coral,0,0,Marker 32,111,111,T0,0,Nursery
+G62r3,62,Coral,1,1,Looe Key,111,111,T0,0,Nursery
+G62r4,62,Coral,1,1,Bahia Honda,111,111,T0,0,Nursery
+G7r12,7,Coral,0,0,E.Sambo,3736,111,T0,0,Nursery
+G7r2,7,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G7r21,7,Coral,0,0,Maryland Shoal,3736,111,T0,0,Nursery
+G7r22,7,Coral,0,0,Maryland Shoal,3736,111,T0,0,Nursery
+G7r24,7,Coral,1,666,Marker 32,3736,111,T0,0,Nursery
+G7r25,7,Coral,0,0,Marker 32,3736,111,T0,0,Nursery
+G7r27,7,Coral,0,666,Marker 32,3736,111,T0,0,Nursery
+G7r28,7,Coral,0,0,EDR,3736,111,T0,0,Nursery
+G7r3,7,Coral,0,0,Looe Key,3736,111,T0,0,Nursery
+G7r6,7,Coral,1,1,Bahia Honda,3736,111,T0,0,Nursery
+G7r7,7,Coral,0,0,Big Pine,3736,111,T0,0,Nursery
+G7r8,7,Coral,1,666,Big Pine,3736,111,T0,0,Nursery
+Gr7,7,Coral,2,2,UnkNwn,3736,111,T665,0,Nursery
+N1,N,Nursery,2,2,UnkNwn,3736,111,T665,0,Nursery
+N2,N,Nursery,2,2,UnkNwn,3736,111,T665,0,Nursery
+N3,N,Nursery,2,2,UnkNwn,3736,111,T665,0,Nursery
