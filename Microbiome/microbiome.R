@@ -8,8 +8,6 @@
 
 
 ########### Set Phylosq ######################
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
-
 #reading in t0 nursery data 
 seqtab.nochim1=readRDS("t0_seqtab2.rds")
 
