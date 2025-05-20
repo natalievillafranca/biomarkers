@@ -1,6 +1,5 @@
 #module preservation
 rm(list=ls()) 
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
 
 library(WGCNA)
 library(stringr)
