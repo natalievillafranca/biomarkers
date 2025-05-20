@@ -1,6 +1,5 @@
 #### data input and cleaning ####
 rm(list=ls()) 
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
 options(stringsAsFactors=FALSE)
 library("conflicted")
 library(tidyverse)
