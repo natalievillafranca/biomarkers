@@ -1,6 +1,5 @@
 #######Survival Analysis#####
 ###code adapted from Million et al 2022 https://github.com/wyattmillion/Acer_Morphological_Plasticity and Dilworth in prep 
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
 rm(list=ls())
 wyattsurv <- read.csv("AcerMorphologyData_Imputed2.csv")
 
