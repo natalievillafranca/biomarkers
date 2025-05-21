@@ -1,6 +1,5 @@
 #######Survival Analysis#####
 ###code adapted from Million et al 2022 https://github.com/wyattmillion/Acer_Morphological_Plasticity
-setwd('/Users/natalievillafranca/Desktop/biomarkers')
 surv <- read.csv("AcerMorphologyData_Imputed2.csv")
 #install.packages("corr")
 library(survival) # for survival analysis 
