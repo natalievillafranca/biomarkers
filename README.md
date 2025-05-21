@@ -10,3 +10,6 @@ This folder has data and code corresponding to GO analyses -- note that one GO_M
 MICROBIOME FOLDER:
 This folder has data and code corresponding to microbiome analysis in supplemental data. Original data and code can be found at https://github.com/symbiotic-em/acer_epi_final
 
+Figure1_survival_vs_resval.R was used to run statistics on comparison between survival ranking and restoration value ranking. 
+
+Figure4_2018_vs_2022.R was used to run analysis comparing 2018 survival data to 2022 survival data. 
